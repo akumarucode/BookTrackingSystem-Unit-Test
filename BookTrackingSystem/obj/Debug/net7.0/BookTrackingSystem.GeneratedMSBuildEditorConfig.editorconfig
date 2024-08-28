@@ -1,0 +1,171 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BookTrackingSystem
+build_property.RootNamespace = BookTrackingSystem
+build_property.ProjectDir = D:\OneDrive\Documents\WORKSPACE\UNIT TEST\BookTrackingSystem + Unit Test\BookTrackingSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\OneDrive\Documents\WORKSPACE\UNIT TEST\BookTrackingSystem + Unit Test\BookTrackingSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/AddBook/registerBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkQm9va1xyZWdpc3RlckJvb2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/Admin/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/Admin/userSetting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXNlclNldHRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/BorrowBook/Borrow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93Qm9va1xCb3Jyb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/BorrowBook/borrowList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93Qm9va1xib3Jyb3dMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/BorrowBook/ReturnBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93Qm9va1xSZXR1cm5Cb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/BorrowBook/SearchBorrow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93Qm9va1xTZWFyY2hCb3Jyb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/BorrowBook/SearchReturn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93Qm9va1xTZWFyY2hSZXR1cm4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/displayBook/displayBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGlzcGxheUJvb2tcZGlzcGxheUJvb2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/displayBook/SearchBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGlzcGxheUJvb2tcU2VhcmNoQm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/EditBook/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdEJvb2tcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/ExportExcel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwb3J0RXhjZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/History/borrowHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yeVxib3Jyb3dIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/History/returnHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yeVxyZXR1cm5IaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/History/SearchBorrowHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yeVxTZWFyY2hCb3Jyb3dIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/History/SearchReturnHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yeVxTZWFyY2hSZXR1cm5IaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/Home/registerBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWdpc3RlckJvb2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/roleSetting/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nccm9sZVNldHRpbmdcQWRkUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/roleSetting/EditRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nccm9sZVNldHRpbmdcRWRpdFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/roleSetting/roleSetting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nccm9sZVNldHRpbmdccm9sZVNldHRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/Shared/_memberLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9tZW1iZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/UserRole/editUserRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJvbGVcZWRpdFVzZXJSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/UserRole/UserRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJvbGVcVXNlclJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/UserRole/UserRoleSetting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJvbGVcVXNlclJvbGVTZXR0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive/Documents/WORKSPACE/UNIT TEST/BookTrackingSystem + Unit Test/BookTrackingSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-42erld0yzh
